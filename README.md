@@ -1,6 +1,4 @@
-<h1 align="center" style="color:e0c15a;"
-  ></h1>︶⊹︶︶୨୧︶︶⊹︶
-</h1>
+<h1 align="center">︶⊹︶︶୨୧︶︶⊹︶</h1>
 
 
 <p align="center">
