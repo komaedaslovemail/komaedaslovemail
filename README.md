@@ -32,10 +32,11 @@
   my name is Reiji but mostly people call me 'Rei',
   I'm 15, and I really love Danganronpa, I'm also into other
   fandoms, like alsnt,demon slayer, crk, genshin and i forgot
-  but i mostly do Danganronpa and Genshin..
+  but i mostly do Danganronpa and Genshin..I don't interact
+  much but i do appreciate some company ^^
 
-  For my hobbies, i guess... i draw, i can animate, i do edits and sometimes 
-  also do writing not that I'm specifically good at any but its a good past time for me
+  For my hobbies, i guess... i draw, i can animate, i do edits and sometimes also do writing 
+  not that I'm specifically good at any but its a good past time for me
   
   ## other social:
   -Discord: @rei.jirou
