@@ -47,9 +47,38 @@
 
 ---
 
-## DNI !!!
+#### Boundaries/DNI!!
 
 <p align="center"  <!-- Add your favorite GIFs here -->
   <img src="GIF_20260215_184519_343.gif" alt="fun GIF" width="2000"/>
   
 </p>
+
+<p align="center">
+  <!-- Write a brief description about yourself here -->
+  Just a few things I'd like to add to avoid unpleasant encounters
+  on ponytown i guess (knowing damn well I don't like socializing nor
+  anyone would try to interact with me on a daily basis)
+
+  ## Attitude/Personality
+  # -Rude people
+  yeah self explanatory!
+  # - Freaky people
+  umm just don't over do it then it's completely fine
+
+  ## Gameplay
+  # - Copy?
+  Uhh no copies are a big no no, unless ofc i gifted you a pony, but I'm fine with inspos
+  its just ponies not that big of a deal but do let me know if you will take inspo I'd 
+  be happy to share my works with you guys
+  # - C+H
+  Yes.
+
+  ## Fandoms
+  # - None!
+  Any fandom feel free to int!!
+
+  ---
+
+  <h1 align="center">︶⊹︶︶୨୧︶︶⊹︶</h1>
+  
