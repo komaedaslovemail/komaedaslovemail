@@ -23,28 +23,24 @@
 </p>
 
 <p align="center">
-  <h1>About Me</h1>
+  <h1>## About Me</h1>
 </p>
 
 <p align="center">
   <!-- Write a brief description about yourself here -->
-  Hello, my name is Reiji but mostly people call me 'Rei',
+  Hello!! Welcome to my profile,
+  my name is Reiji but mostly people call me 'Rei',
   I'm 15, and I really love Danganronpa, I'm also into other
   fandoms, like alsnt,demon slayer, crk, genshin and i forgot
-  but i mostly do Danganronpa and Genshin..<br>
+  but i mostly do Danganronpa and Genshin..
+
+  For my hobbies, i guess... i draw, i can animate, i do edits and sometimes 
+  also do writing not that I'm specifically good at any but its a good past time for me
+  
+  ## other social:
+  -Discord: @rei.jirou
+
+  (note: Strangers do not add my disc without perm or letting me know, I'd immediately decline
+  if otherwise, thank you!)
+  <br>
 </p>
-
-
-**komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
