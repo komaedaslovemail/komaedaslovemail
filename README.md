@@ -19,7 +19,7 @@
 
 ---
 <p align="center">
-  <img src="Untitled4_20260215161222.png" alt="Header Image" width="300"/>
+  <img src="Untitled4_20260215161222.png" alt="Header Image" width="3000"/>
 </p>
 <!--
 **komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
