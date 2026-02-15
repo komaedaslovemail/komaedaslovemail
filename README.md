@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#e0c15a;">
+<h1 align="center" style="color:e0c15a;">
 ---⋆｡‧˚ʚ♡ɞ˚‧｡⋆---
 </h1>
 
