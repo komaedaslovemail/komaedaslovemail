@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=“The+Ultimate+Hope”;“The+Ultimate+Lucky+Student“;“No+matter+how+big+the+despair,”;“Hope+always+win+at+the+end”." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8f2c2c&center=true&vCenter=true&width=700&lines=“The+Ultimate+Hope”;“The+Ultimate+Lucky+Student“;“No+matter+how+big+the+despair,”;“Hope+always+win+at+the+end”." />
 </p>
 
 
