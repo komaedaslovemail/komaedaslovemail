@@ -44,3 +44,12 @@
   if otherwise, thank you!)
   <br>
 </p>
+
+---
+
+## DNI !!!
+
+<p align="center"  <!-- Add your favorite GIFs here -->
+  <img src="GIF_20260215_184519_343.gif" alt="fun GIF" width="200"/>
+  
+</p>
