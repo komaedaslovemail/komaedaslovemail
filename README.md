@@ -1,4 +1,4 @@
-## W e l c o m e
+##
 
 <!--
 **komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
