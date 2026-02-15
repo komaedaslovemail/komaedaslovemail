@@ -11,6 +11,15 @@
 
 <p align="center"> <img src="09b3d294d960bd7bbef2966df9870d0a.jpg" alt="Banner" width="100%" /> </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Nagito-e0c15a?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Komaeda-e0c15a?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/%231%20Fan-e0c15a?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hope%20Enthusiast-e0c15a?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Happy%20go%20Lucky-e0c15a?style=for-the-badge&logoColor=black"/>
+</p>
+
+
 <!--
 **komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
