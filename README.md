@@ -12,11 +12,11 @@
 <p align="center"> <img src="09b3d294d960bd7bbef2966df9870d0a.jpg" alt="Banner" width="100%" /> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nagito-e0c15a?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Komaeda-e0c15a?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/%231%20Fan-e0c15a?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hope%20Enthusiast-e0c15a?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Happy%20go%20Lucky-e0c15a?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nagito-2ecc71?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Komaeda-e74c3c?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%231%20Fan-ffffff?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hope%20Enthusiast-2ecc71?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Happy%20go%20Lucky-e74c3c?style=for-the-badge&logoColor=white"/>
 </p>
 
 
