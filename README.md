@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=The+Ultimate+Hope;Open+Source+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=“The+Ultimate+Hope”;“The+Ultimate+Lucky+Student“;“Please..+Don't+Forget..+From+The+Bottom+Of+My+Heart,”;“I+Am+Truly+Inlove+With+The+Hope+That+Sleeps+Inside+You.”" />
 </p>
 
 
