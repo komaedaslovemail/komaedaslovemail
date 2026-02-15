@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="09b3d294d960bd7bbef2966df9870d0a.jpg" alt="Banner" width="100%" /> </p>
-<p align="center"> <img src="Untitled4_20260215161222.png" alt="Banner" width="100%" /> </p>
+
 <!--
 **komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
