@@ -1,5 +1,5 @@
-<h1 align="center" style="color:e0c15a;">
----⋆｡‧˚ʚ♡ɞ˚‧｡⋆---
+<h1 align="center" style="color:e0c15a;"
+  >---⋆｡‧˚ʚ♡ɞ˚‧｡⋆---
 </h1>
 
 
@@ -11,13 +11,14 @@
 
 <p align="center"> <img src="09b3d294d960bd7bbef2966df9870d0a.jpg" alt="Banner" width="100%" /> </p>
 
-![Life](https://img.shields.io/badge/Life-2E7D32?style=for-the-badge&logo=&logoColor=white)
-![Hope's Peak](https://img.shields.io/badge/Hope's%20Peak-F9A825?style=for-the-badge&logo=&logoColor=white)
-![Lucky Student](https://img.shields.io/badge/Lucky%20Student-C62828?style=for-the-badge&logo=&logoColor=white)
-![Nagito Komaeda](https://img.shields.io/badge/Nagito%20Komaeda-E0E0E0?style=for-the-badge&logo=&logoColor=black)
-![ 's number 1 fan](https://img.shields.io/badge/'s%20number%201%20fan-C62828?style=for-the-badge&logo=&logoColor=white)
-![Necessary evil](https://img.shields.io/badge/Necessary%20evil-F9A825?style=for-the-badge&logo=&logoColor=white)
-![Death](https://img.shields.io/badge/Death-2E7D32?style=for-the-badge&logo=&logoColor=white)
+![Life](https://img.shields.io/badge/Life-bfaa6f?style=for-the-badge&logo=&logoColor=white)
+![Hope's Peak](https://img.shields.io/badge/Hope's%20Peak-f69318?style=for-the-badge&logo=&logoColor=white)
+![Lucky Student](https://img.shields.io/badge/Lucky%20Student-8f2c2c?style=for-the-badge&logo=&logoColor=white)
+![Nagito Komaeda](https://img.shields.io/badge/Nagito%20Komaeda-fff9e8?style=for-the-badge&logo=&logoColor=black)
+![ 's number 1 fan](https://img.shields.io/badge/'s%20number%201%20fan-8f2c2c?style=for-the-badge&logo=&logoColor=white)
+![Necessary evil](https://img.shields.io/badge/Necessary%20evil-f69318?style=for-the-badge&logo=&logoColor=white)
+![Death](https://img.shields.io/badge/Death-bfaa6f?style=for-the-badge&logo=&logoColor=white)
+
 
 
 
