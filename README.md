@@ -21,7 +21,20 @@
 <p align="center">
   <img src="Untitled6_20260215182627.png" alt="Header Image" width="600"/>
 </p>
-<!--
+
+<p align="center">
+  <h1>About Me</h1>
+</p>
+
+<p align="center">
+  <!-- Write a brief description about yourself here -->
+  Hello, my name is Reiji but mostly people call me 'Rei',
+  I'm 15, and I really love Danganronpa, I'm also into other
+  fandoms, like alsnt,demon slayer, crk, genshin and i forgot
+  but i mostly do Danganronpa and Genshin..<br>
+</p>
+
+
 **komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
