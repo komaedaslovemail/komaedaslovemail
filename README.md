@@ -18,12 +18,9 @@
 ![Death](https://img.shields.io/badge/Death-4e6631?style=for-the-badge&logo=&logoColor=white)
 
 ---
-
-
-
-
-
-
+<p align="center">
+  <img src="Untitled4_20260215161222.png" alt="Header Image" width="300"/>
+</p>
 <!--
 **komaedaslovemail/komaedaslovemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
