@@ -1,3 +1,11 @@
+<h1 align="center">
+  Komaedaslovemail
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things" />
+</p>
+
 
 <p align="center"> <img src="09b3d294d960bd7bbef2966df9870d0a.jpg" alt="Banner" width="100%" /> </p>
 
