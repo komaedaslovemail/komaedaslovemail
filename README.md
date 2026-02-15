@@ -60,22 +60,22 @@
   on ponytown i guess (knowing damn well I don't like socializing nor
   anyone would try to interact with me on a daily basis)
 
-  ## Attitude/Personality
-  # -Rude people
+  # Attitude/Personality
+   ### -Rude people
   yeah self explanatory!
-  # - Freaky people
+  ### - Freaky people
   umm just don't over do it then it's completely fine
 
-  ## Gameplay
-  # - Copy?
+  # Gameplay
+  ### - Copy?
   Uhh no copies are a big no no, unless ofc i gifted you a pony, but I'm fine with inspos
   its just ponies not that big of a deal but do let me know if you will take inspo I'd 
   be happy to share my works with you guys
-  # - C+H
+  ### - C+H
   Yes.
 
-  ## Fandoms
-  # - None!
+  # Fandoms
+  ### - None!
   Any fandom feel free to int!!
 
   ---
